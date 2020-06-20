@@ -20,7 +20,7 @@ In addition the following libraries are imported:
 
 
 ## contributing
-Please check `Movies-Database-analysis_notebook`. 
+Please check `Movies Database analysis.ipynb`. 
 
 The contribution will be in a form of advice and recommendation on the following:
 •	Evaluation of the analysis overall
