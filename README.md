@@ -7,8 +7,9 @@ The aim of this project is to analyze ‘TMDB’ database from a numerical stand
 
 ## Installation
 `Python` is required for this porject. The work is also conducted in `jupyter notebook`.
+Movies Database is in the file `tmdb-movies.csv`. This file will be required to run the code. 
 
-In addition the following libraries are imported:
+In addition, the following libraries are imported:
 
 •	pandas
 
