@@ -26,3 +26,9 @@ Please check `Movies Database analysis.ipynb`.
 The contribution will be in a form of advice and recommendation on the following:
 •	Evaluation of the analysis overall
 •	Coding suggestion and improvement
+
+## Source:
+The materials of this project is from Udacity.com
+
+## Note:
+The main document `jupyter notebook` will be removed once this project is evaluated for github profile project.
